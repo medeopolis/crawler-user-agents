@@ -5072,6 +5072,18 @@
     ]
   },
   {
+    "pattern": "Webzio-Extended",
+    "url": "https://webz.io/bot.html",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
+    "pattern": "Webzio",
+    "url": "https://webz.io/bot.html",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
     "pattern": "WallabyupBot",
     "url": "https://wallabyup.au/bot.php",
     "addition_date": "2024/11/11",
