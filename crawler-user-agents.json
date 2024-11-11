@@ -4996,5 +4996,12 @@
     "instances": [
       "BotPoke"
     ]
+  },
+  {
+    "pattern": "NLATrove",
+    "addition_date": "2024/11/11",
+    "url": "https://trove.nla.gov.au/technical-specifications",
+    "instances": [
+    ]
   }
 ]
