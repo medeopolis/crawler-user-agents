@@ -5092,6 +5092,12 @@
     ]
   },
   {
+    "pattern": "Arquivo-web-crawler",
+    "url": "https://sobre.arquivo.pt/en/help/crawling-and-archiving-web-content/",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
     "pattern": "Dark Visitor",
     "url": "https://darkvisitors.com/agents/dark-visitor",
     "addition_date": "2024/11/11",
