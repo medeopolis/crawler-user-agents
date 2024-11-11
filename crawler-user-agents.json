@@ -1488,6 +1488,14 @@
     ]
   },
   {
+    "pattern": "FacebookBot",
+    "url": "https://developers.facebook.com/docs/sharing/bot/",
+    "addition_date": "2024/11/11",
+    "instances": [
+      "Mozilla/5.0 (compatible; FacebookBot/1.0; +https://developers.facebook.com/docs/sharing/webmasters/facebookbot/)"
+    ]
+  },
+  {
     "pattern": "OrangeBot\\/",
     "instances": [
       "Mozilla/5.0 (compatible; OrangeBot/2.0; support.orangebot@orange.com"
