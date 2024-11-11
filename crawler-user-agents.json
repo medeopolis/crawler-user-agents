@@ -5090,5 +5090,12 @@
     "instances": [
       "WallabyupBot/1.0 (+https://wallabyup.au/bot.php) Surfing code: AU"
     ]
-  }
+  },
+  {
+    "pattern": "Dark Visitor",
+    "url": "https://darkvisitors.com/agents/dark-visitor",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
 ]
+
