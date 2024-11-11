@@ -1648,6 +1648,18 @@
     "addition_date": "2015/05/26"
   },
   {
+    "pattern": "SiteAuditBot",
+    "url": "https://www.semrush.com/bot/",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
+    "pattern": "SplitSignalBot",
+    "url": "https://www.semrush.com/bot/",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
     "pattern": "yoozBot",
     "url": "http://yooz.ir",
     "instances": [
