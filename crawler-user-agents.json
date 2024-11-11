@@ -4988,5 +4988,13 @@
     "instances": [
       "Mozilla/5.0 (compatible; KeybaseBot; +https://keybase.io)"
     ]
+  },
+  {
+    "pattern": "BotPoke",
+    "addition_date": "2024/11/11",
+    "url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
+    "instances": [
+      "BotPoke"
+    ]
   }
 ]
