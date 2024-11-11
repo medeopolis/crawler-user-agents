@@ -1344,6 +1344,12 @@
     ]
   },
   {
+    "pattern": "HaoSouSpider",
+    "url": "https://www.so.com/help/help_3_2.html",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
     "pattern": "psbot",
     "addition_date": "2014/03/31",
     "url": "http://www.picsearch.com/bot.html",
