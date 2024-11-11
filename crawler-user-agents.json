@@ -2330,12 +2330,10 @@
     ]
   },
   {
-    "pattern": "YaK\\/",
-    "addition_date": "2017/09/25",
-    "url": "http://linkfluence.com",
-    "instances": [
-      "Mozilla/5.0 (compatible; YaK/1.0; http://linkfluence.com/; bot@linkfluence.com)"
-    ]
+    "pattern": "linkfluence",
+    "url": "https://www.meltwater.com/en/suite/consumer-intelligence?utm_source=direct&utm_medium=linkfluence",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
   },
   {
     "pattern": "PaperLiBot",
