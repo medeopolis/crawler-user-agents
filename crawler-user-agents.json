@@ -2757,6 +2757,17 @@
     "url": "http://www.meltwater.com"
   },
   {
+    "pattern": "LinkWalker",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
+    "pattern": "scoop.it",
+    "url": "https://www.scoop.it/",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
     "pattern": "Moreover",
     "addition_date": "2018/03/27",
     "instances": [
