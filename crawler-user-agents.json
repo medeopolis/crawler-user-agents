@@ -5100,6 +5100,12 @@
     ]
   },
   {
+    "pattern": "Kangaroo.Bot",
+    "url": "https://kangaroollm.com.au/kangaroo-bot/",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
     "pattern": "Arquivo-web-crawler",
     "url": "https://sobre.arquivo.pt/en/help/crawling-and-archiving-web-content/",
     "addition_date": "2024/11/11",
