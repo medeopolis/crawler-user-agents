@@ -5003,5 +5003,12 @@
     "url": "https://trove.nla.gov.au/technical-specifications",
     "instances": [
     ]
+  },
+  {
+    "pattern": "Applebot-Extended",
+    "url": "http://www.apple.com/go/applebot",
+    "addition_date": "2024/11/11",
+    "instances": [
+    ]
   }
 ]
