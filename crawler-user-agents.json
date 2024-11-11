@@ -5135,5 +5135,11 @@
     "addition_date": "2024/11/11",
     "instances": [ ]
   },
+  {
+    "pattern": "Acunetix (Security|Web Vulnerability) Scanner",
+    "url": "https://www.acunetix.com/",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  }
 ]
 
