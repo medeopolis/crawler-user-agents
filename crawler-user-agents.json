@@ -1216,6 +1216,12 @@
     ]
   },
   {
+    "pattern": "coccoc-web",
+    "url": "http://help.coccoc.vn/",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
     "pattern": "integromedb",
     "addition_date": "2013/01/10",
     "url": "http://www.integromedb.org/Crawler",
