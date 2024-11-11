@@ -5092,6 +5092,14 @@
     ]
   },
   {
+    "pattern": "AI2Bot",
+    "url": "https://allenai.org/crawler",
+    "addition_date": "2024/11/11",
+    "instances": [
+      "Mozilla/5.0 (compatible) AI2Bot (+https://www.allenai.org/crawler)"
+    ]
+  },
+  {
     "pattern": "Arquivo-web-crawler",
     "url": "https://sobre.arquivo.pt/en/help/crawling-and-archiving-web-content/",
     "addition_date": "2024/11/11",
