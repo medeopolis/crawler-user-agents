@@ -77,6 +77,12 @@
     ]
   },
   {
+    "pattern": "Google-Extended",
+    "url": "https://blog.google/technology/ai/an-update-on-web-publisher-controls/",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
     "pattern": "Mediapartners \\(Googlebot\\)",
     "addition_date": "2017/08/08",
     "url": "https://support.google.com/webmasters/answer/1061943?hl=en",
