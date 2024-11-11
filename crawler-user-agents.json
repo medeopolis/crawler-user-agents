@@ -4412,6 +4412,12 @@
     ]
   },
   {
+    "pattern": "snapchat",
+    "url": "https://developers.snap.com/robots",
+    "addition_date": "2024/11/11",
+    "instances": [ ]
+  },
+  {
     "pattern": "Better Uptime Bot",
     "addition_date": "2022/11/13",
     "url": "https://betteruptime.com/",
